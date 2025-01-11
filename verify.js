@@ -1,5 +1,5 @@
 module.exports = {
     code: "discord.gg/wicks",
-    token: "MTMyNzY2MTIxNTg4MjkzNjM4Mg.GTLIB8._WMt4_XKE_K4rUbIiAaKbZ1LWtS2M0SaQ2IyaA",
+    token: "MTMyNzcyMTM4MDE3ODgyNTIxNw.GVx9MP.zB4dw9uQyWlizPhmjZBEhh1F_45gDatEJP_pDk",
     PORT:3000
 };
